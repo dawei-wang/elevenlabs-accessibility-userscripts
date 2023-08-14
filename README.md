@@ -31,7 +31,7 @@ Follow these steps to install and use the Tampermonkey scripts on your browser:
 
 2. **Download the Script:**
 
-   - Visit the GitHub repository containing the script: [Elevenlabs Accessibility Userscripts](https://github.com/your-username/elevenlabs-accessibility-userscripts).
+   - Visit the GitHub repository containing the script: [Elevenlabs Accessibility Userscripts](https://github.com/dawei-wang/elevenlabs-accessibility-userscripts).
    - Click on the "Code" button and select "Download ZIP" to download the script files to your computer.
 
 3. **Extract the ZIP Archive:**
@@ -57,11 +57,11 @@ Follow these steps to install and use the Tampermonkey scripts on your browser:
 
 7. **Test the Script:**
 
-   - The script should now be active on the webpage. Type a character into the text box, and you should hear the remaining character count announced by a screen reader.You should also hear each button being announced by the screenreader as you navigate to it.
+   - The script should now be active on the webpage. Type a character into the text box, and you should hear the remaining character count announced by the screenreader.You should also hear each button being announced by the screenreader as you navigate to it.
 
 ## Compatibility
 
-This script is designed to work with specific elements on certain web pages. It has been tested and verified on the provided URL. If you encounter any issues or have suggestions for improvements, please feel free to create an issue on the GitHub repository.
+This script is designed to work with specific elements on certain web pages. It has been tested and verified on the provided URL with the [NVDA](https://www.nvaccess.org/) screen reader. If you encounter any issues or have suggestions for improvements, please feel free to create an issue on the GitHub repository.
 
 ## Usage
 
