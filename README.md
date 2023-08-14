@@ -4,19 +4,19 @@ This repository contains a collection of Tampermonkey scripts designed to enhanc
 
 ## Scripts
 
-1. Accessible Character Count for ElevenLabs Website Homepage Textbox
+1. Accessible Character Count for ElevenLabs Website Homepage Textbox:
    This script adds an ARIA live region enabling a screen reader to announce the remaining characters for the [ElevenLabs](https://elevenlabs.io) homepage textbox. It updates the live region dynamically as the character count changes.
 
-2. Accessible Character Count for ElevenLabs Text-to-Speech Speech Synthesis Page Textbox
+2. Accessible Character Count for ElevenLabs Text-to-Speech Speech Synthesis Page Textbox:
    This script adds an ARIA live region enabling a screen reader to announce the remaining characters for the [Speech Synthesis](https://elevenlabs.io/speech-synthesis) page textbox. It updates the live region dynamically as the character count changes. It also provides information about the total quota remaining in the account.
 
-3. Accessible Feedback Buttons
+3. Accessible Feedback Buttons:
    This script enhances the accessibility of the thumbs up and thumbs down feedback buttons. It replaces the original SVG icons with accessible buttons that have descriptive labels and can be focused and activated using keyboard navigation.
 
-4. Accessible Sign In Button
+4. Accessible Sign In Button:
    This script makes the "Sign in" button accessible for keyboard and screen reader users.
 
-5. SVG Button Accessibility
+5. SVG Button Accessibility:
    This script makes the SVG buttons accessible for keyboard and screen reader users.
 
 ## Installation
