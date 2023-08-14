@@ -61,7 +61,7 @@ Follow these steps to install and use the Tampermonkey scripts on your browser:
 
 ## Compatibility
 
-This script is designed to work with specific elements on certain web pages. It has been tested and verified on the provided URL with the [NVDA](https://www.nvaccess.org/) screen reader. If you encounter any issues or have suggestions for improvements, please feel free to create an issue on the GitHub repository.
+This script is designed to work with specific elements on certain web pages. It has been tested and verified on the ElevenLabs website with the [NVDA](https://www.nvaccess.org/) screen reader. If you encounter any issues or have suggestions for improvements, please feel free to create an issue on the GitHub repository.
 
 ## Usage
 
